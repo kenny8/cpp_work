@@ -1,0 +1,6 @@
+﻿  lol.cpp
+C:\cpp_work\lol\lol\lol\lol.cpp(67,24): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\cpp_work\lol\lol\lol\lol.cpp(75,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp_work\lol\lol\lol\lol.cpp(77,5): warning C4305: инициализация: усечение из "double" в "float"
+C:\cpp_work\lol\lol\lol\lol.cpp(77,46): warning C4305: +=: усечение из "double" в "float"
+  lol.vcxproj -> C:\cpp_work\lol\lol\Debug\lol.exe
