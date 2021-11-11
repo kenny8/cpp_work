@@ -1,1 +1,7 @@
-﻿
+﻿  dz_17_11.cpp
+C:\cpp_work\dz_17_11\dz_17_11\dz_17_11.cpp(61,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\cpp_work\dz_17_11\dz_17_11\dz_17_11.cpp(81,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\cpp_work\dz_17_11\dz_17_11\dz_17_11.cpp(87,48): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\cpp_work\dz_17_11\dz_17_11\dz_17_11.cpp(89,47): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\cpp_work\dz_17_11\dz_17_11\dz_17_11.cpp(91,47): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  dz_17_11.vcxproj -> C:\cpp_work\dz_17_11\Debug\dz_17_11.exe
